@@ -15,10 +15,4 @@
 *  [<u>Lens of Intrinsic Skill Atoms</u>](https://www.academia.edu/12627746/The_Lens_of_Intrinsic_Skill_Atoms_A_Method_for_Gameful_Design) - оказалось наиболее похожим на то, о чём я хотел поговорить в этой статье. Авторы рассматривают игровой процесс с точки зрения его атомарных элементов - собственно, skill atoms. Что происходит в голове игрока во время игры?
 *  Фреймворк [<u>6-11</u>](https://www.academia.edu/1571687/THE_6_11_FRAMEWORK_A_NEW_METHODOLOGY_FOR_GAME_ANALYSIS_AND_DESIGN).
  Модель предлагает анализировать игры с точки зрения их влияния на 6 ключевых эмоций и 11 базовых инстинктов человека.
-=======
-## Hi, I am ~~Bella~~
-### Hi, I am *Bella*
-#### Hi, I am ***Bella***
-##### Hi, I am **Bella**
-![Изображение](https://avatars.mds.yandex.net/i?id=0191d39d409c981bfe8e5d69fb342e4c74e67af6-7757111-images-thumbs&n=13)
-> master
+
